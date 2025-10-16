@@ -48,7 +48,8 @@ Y seis filas que organizan los elementos verticalmente:
 - `style.css`: estilos aplicados con Grid
 - `README.md`: documentación del proyecto
 
----
+**Link**
+https://sandras2430.github.io/gridDesign/
 
 ## Créditos de imágenes
 
